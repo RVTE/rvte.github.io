@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: 第一届RISC-V技术及生态大会
+description: 2021年6月28日, 上海
+markdown: kramdown
+url: "https://RVTE.github.io"
