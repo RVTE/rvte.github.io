@@ -52,3 +52,15 @@
     background: #000;
     color: #fcb326;
 }
+
+.mobile-nav-container {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 1%;
+}
+
+.mobile-nav {
+    background: #000;
+    color: #fcb326;
+}
